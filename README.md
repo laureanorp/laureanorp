@@ -1,6 +1,6 @@
 
 <h2 align='center'>
-  Python Developer, studied Bioinformatics and Biology.
+  Software Developer specialized in Python, Bioinformatician
 </h2>
 
 <p align = "center">
@@ -27,6 +27,7 @@
 
 <p align = "center">
   <a href="https://www.linkedin.com/in/laureanorp"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:laureano.ruiz.perez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <a href="https://t.me/laureanorp"><img src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="mailto:laureanorp@proton.me">
+    <img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=fff"/>
+  </a>
 </p>
